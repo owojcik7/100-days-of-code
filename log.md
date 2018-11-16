@@ -2,14 +2,14 @@
 
 ### R1D1: Thursday, November 15th, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Started the freeCodeCamp Responsive Web Design Certification (300 hours) course as my challenge for 100 days of code. Made it about halfway through the first topic, Basic HTML and HTML5. I also worked my way through a few modules of Gordon Zhu's watchandcode.com Practical Javascript course. Today I've completed Day 1 out of 100.
 
-**Thoughts:** Started the freeCodeCampResponsive Web Design Certification (300 hours) course as my challenge for 100 days of code. Made it about halfway through the first topic, Basic HTML and HTML5. I also worked my way through a few modules of Gordon Zhu's watchandcode.com Practical Javascript course. Today I've completed Day 1 out of 100.
+**Thoughts**: Let's see how this goes.
 
 ### R1D2: Friday, November 16th, 2018
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: In the freeCodeCamp Responsive Web Design Certification, completed the first topic, Basic HTML and HTML5 and started on an introduction to CSS- Cascading Style Sheets.  
 
-**Thoughts**: 
+**Thoughts**: It's much easier to get into a state of flow coding when I have some non-lyrical music playing in the background. 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
