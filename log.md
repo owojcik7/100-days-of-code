@@ -7,11 +7,9 @@
 **Thoughts**: Let's see how this goes.
 
 ### R1D2: Friday, November 16th, 2018
-**Today's Progress**: In the freeCodeCamp Responsive Web Design Certification, completed the first topic, Basic HTML and HTML5 and started on an introduction to CSS- Cascading Style Sheets.  
+**Today's Progress**: In the freeCodeCamp Responsive Web Design Certification, completed the first topic, Basic HTML and HTML5 and started on an introduction to CSS- Cascading Style Sheets. 
 
-**Thoughts**: It's much easier to get into a state of flow coding when I have some non-lyrical music playing in the background. 
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: It's much easier to get into a state of flow coding when I have some non-lyrical music playing in the background. Finally finished my 1 hour of the day and interesting to see how I broke it out into 3 chunks of time - 7 min 28 sec, 16 min 52 sec, and 24 min 22 sec. 
 
 ### R1D3: Saturday, November 17th, 2018
 
